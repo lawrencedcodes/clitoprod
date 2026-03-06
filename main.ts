@@ -30,3 +30,5 @@ async function runReview(code: string) {
   });
   console.log(response.text);
 }
+
+startFlowServer();

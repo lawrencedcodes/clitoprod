@@ -534,3 +534,12 @@ pyrightconfig.json
 # Images
 Engineering_AI_VIBES_2.pptx
 VIBESPIC.jpeg
+
+# macOS
+.DS_Store
+
+# Local Spring Boot configurations
+application-local.properties
+application-local.yml
+application-secret.properties
+application-secret.yml

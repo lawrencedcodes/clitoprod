@@ -1,4 +1,4 @@
-🎙️ Bounding the AI: From Vibes to Enterprise Architecture
+# 🎙️ Bounding the AI: From Vibes to Enterprise Architecture
 DataTune 2026 Companion Repository
 
 Welcome to the companion repository for my DataTune talk!
